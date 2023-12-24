@@ -66,8 +66,8 @@ body{
 #Home{
     display: flex;
     height: 100vh;
-    color: #4a4e69;
-    background-color: antiquewhite;
+    color: navy;
+    background-color: steelblue;
     font-size: large;
 }
 #image{
@@ -78,7 +78,7 @@ body{
 }
 .Heads{
     text-decoration: underline;
-    color: #4a4e69;
+    color: teal;
 }
 .grid-container{
     display: grid;
@@ -96,7 +96,8 @@ body{
     height: 7vh;
 }
 #Blog{
-    background-color: antiquewhite;
+    background-color: steelblue;
+    color: navy;
     font-size: large;
     height: 50vh;
 }
