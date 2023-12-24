@@ -84,14 +84,13 @@ body{
     display: grid;
     grid-template-columns: auto auto auto;
     justify-content: center;
-    grid-template-rows: 50px;
     align-content: center;
     background-color: #2196F3;
 }
 .grid-items{
     background-color: rgba(255, 255, 255, 0.8);
     border:2px black solid;
-    font-size: larger;
+    font-size: 3vh;
     text-align: center;
     width: 30vw;
     height: 7vh;
@@ -111,4 +110,9 @@ body{
     text-decoration: none;
     color: #a9cda7;
     align-self: center;
+}
+@media (max-width:430px){
+    .grid-items{
+        font-size:2vh;
+    }
 }
