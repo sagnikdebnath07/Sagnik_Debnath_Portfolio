@@ -65,7 +65,7 @@ body{
 }
 #Home{
     display: flex;
-    height: 50vh;
+    height: 100vh;
     color: #4a4e69;
     background-color: antiquewhite;
     font-size: 3vh;
