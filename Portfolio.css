@@ -1,0 +1,114 @@
+body{
+    background-color: white;
+}
+.dark-mode{
+    background-color: black;
+}
+#navbar{
+    display:flex;
+    justify-content: space-between;
+    background-color: black;
+}
+#home{
+    color: #a9cda7;
+    text-align: center;
+    border: 2px solid #0353a4;
+}
+#home:hover{
+    color:red;
+    transition-timing-function: ease-in;
+    transition-duration: 1s;
+}
+#portfolio{
+    color: #a9cda7;
+    text-align: center;
+    border: 2px solid #0353a4;
+}
+#portfolio:hover{
+    color:red;
+    transition-timing-function: ease-in;
+    transition-duration: 1s;
+}
+#contact{
+    color: #a9cda7;
+    text-align: center;
+    border: 2px solid #0353a4;
+}
+#contact:hover{
+    color:red;
+    transition-timing-function: ease-in;
+    transition-duration: 1s;
+}
+#blog{
+    color: #a9cda7;
+    text-align: center;
+    border: 2px solid #0353a4;
+}
+#blog:hover{
+    color:red;
+    transition-timing-function: ease-in;
+    transition-duration: 1s;
+}
+#toggle_switch{
+    color: #a9cda7;
+    border: 2px solid #0353a4;
+}
+#toggle_switch:hover{
+    color:red;
+    transition-timing-function: ease-in;
+    transition-duration: 1s;
+}
+.navigation{
+    font-size: medium;
+    font-family: 'Times New Roman', Times, serif;
+    text-decoration: underline;
+}
+#Home{
+    display: flex;
+    height: 50vh;
+    color: #4a4e69;
+    background-color: antiquewhite;
+    font-size: large;
+}
+#image{
+    height: 100px;
+    margin-right: 20px;
+    border: 2px black solid;
+    border-radius: 10px;
+}
+.Heads{
+    text-decoration: underline;
+    color: #4a4e69;
+}
+.grid-container{
+    display: grid;
+    grid-template-columns: auto auto auto;
+    justify-content: center;
+    grid-template-rows: 50px;
+    align-content: center;
+    background-color: #2196F3;
+}
+.grid-items{
+    background-color: rgba(255, 255, 255, 0.8);
+    border:2px black solid;
+    font-size: larger;
+    text-align: center;
+    width: 30vw;
+    height: 7vh;
+}
+#Blog{
+    background-color: antiquewhite;
+    font-size: large;
+    height: 50vh;
+}
+#Contact{
+    display: flex;
+    justify-content: space-between;
+    background-color: black;
+    color: #a9cda7;
+}
+#Linkedin{
+    text-decoration: none;
+    color: #a9cda7;
+    align-self: center;
+}
