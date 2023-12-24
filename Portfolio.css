@@ -14,7 +14,7 @@ body{
     text-align: center;
     border: 2px solid #0353a4;
 }
-#home:hover{
+#home:active{
     color:red;
     transition-timing-function: ease-in;
     transition-duration: 1s;
@@ -24,7 +24,7 @@ body{
     text-align: center;
     border: 2px solid #0353a4;
 }
-#portfolio:hover{
+#portfolio:active{
     color:red;
     transition-timing-function: ease-in;
     transition-duration: 1s;
@@ -34,7 +34,7 @@ body{
     text-align: center;
     border: 2px solid #0353a4;
 }
-#contact:hover{
+#contact:active{
     color:red;
     transition-timing-function: ease-in;
     transition-duration: 1s;
@@ -44,7 +44,7 @@ body{
     text-align: center;
     border: 2px solid #0353a4;
 }
-#blog:hover{
+#blog:active{
     color:red;
     transition-timing-function: ease-in;
     transition-duration: 1s;
@@ -53,7 +53,7 @@ body{
     color: #a9cda7;
     border: 2px solid #0353a4;
 }
-#toggle_switch:hover{
+#toggle_switch:active{
     color:red;
     transition-timing-function: ease-in;
     transition-duration: 1s;
