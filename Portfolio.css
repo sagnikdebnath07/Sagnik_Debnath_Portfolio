@@ -113,6 +113,6 @@ body{
 }
 @media (max-width:430px){
     .grid-items{
-        font-size:2vh;
+        font-size: 1.5vh;
     }
 }
