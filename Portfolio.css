@@ -67,7 +67,7 @@ body{
     display: flex;
     height: 100vh;
     color: navy;
-    background-color: steelblue;
+    background-color: lightblue;
     font-size: large;
 }
 #image{
@@ -96,7 +96,7 @@ body{
     height: 7vh;
 }
 #Blog{
-    background-color: steelblue;
+    background-color: lightblue;
     color: navy;
     font-size: large;
     height: 50vh;
